@@ -1,0 +1,15 @@
+!! Compose key to Right Alt
+keycode 9 = Multi_key
+
+!! key kombinations https://wiki.ubuntuusers.de/Xmodmap/
+!! " o = ö
+!! " a = ä
+!! " u = ü
+!! " A = Ä
+!! " O = Ö
+!! " U = Ü
+!! s s = ß
+!! ' e = é
+!! ` e = è
+!! ^ e = êO
+
